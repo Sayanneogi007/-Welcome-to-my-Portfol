@@ -17,7 +17,7 @@ I'm a passionate developer with a background in Computer Science and a current M
 ---
 
 video demo
-![Video](https://github.com/Sayanneogi007/-Welcome-to-my-Portfol/blob/b2b49a1de07f1988ea892b443976af8e43b80b68/portfolio/portfolio.mp4)
+🎥 [Watch Demo Video](https://github.com/Sayanneogi007/-Welcome-to-my-Portfol/raw/b2b49a1de07f1988ea892b443976af8e43b80b68/portfolio/portfolio.mp4)
 
 ---
 Thanks for stopping by! 🌟

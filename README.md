@@ -1,2 +1,18 @@
 # -Welcome-to-my-Portfol
-🚀 Welcome to my Portfolio! I'm an MCA student passionate about software development. This repository showcases my academic projects, personal experiments.
+---
+# 👋 Hi, I'm Sayan neogi
+Welcome to my Portfolio!
+
+I'm a passionate developer with a background in Computer Science and a current MCA student at Haldia Institute of Technology. I love working on real-world projects, learning new technologies, and solving challenging problems.
+
+---
+
+## 🧠 About Me
+
+- 🎓 MCA @ Haldia Institute of Technology  
+- 🎓 B.Sc. Computer Science @ New Alipore College  
+- 💻 Passionate about Web Dev, Machine Learning & AI
+- ⚽ Cricket & Football fan | 🎧 Music lover | 📚 Storybook reader
+
+Thanks for stopping by! 🌟
+
